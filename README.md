@@ -1,6 +1,6 @@
 ﻿# CNC Machine V3
  
-This is a modified version of my previous homemade CNC machine. Instead of using threaded rods this one uses (GT2) belts and has a larger working area of 50x70 cm or 20x27 inch. I'm also using microstepping now (all three jumpers) on the Arduino CNC shield. The STL files for 3D printing can be found in the STL folder. 
+This is a modified version of my previous homemade CNC machine. Instead of using threaded rods this one uses (GT2) belts and has a larger working area of 50x70 cm or 20x27 inch. By using belts it's also faster. I'm also using microstepping now (all three jumpers) on the Arduino CNC shield. The STL files for 3D printing can be found in the STL folder. 
 
 The metal tubes are 20x20mm and approx. 1 meter long (X axis is a little shorter). 
 
