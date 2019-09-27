@@ -15,6 +15,27 @@ I've designed the 3D printed parts with Fusion 360 and used Inkscape for the Y a
 
 The 3D printer I use is an Anet A8. The parts are printed with PLA, mostly 20% infill and 0.2 or 0.4 setting. Use higher infill for parts that must be stronger, for example the stepper motor mounts.
 
+| 3D Printed components|       Print |
+| -------------        |             |
+|Bearing Belt Guidener| 6x |
+|Router Mount| 6x |
+|Universal Mount| 6x |
+|X Axis Belt Holder| 6x |
+|X Axis Motor Mount| 6x |
+|X Axis Sidepanel Mount Inside| 6x |
+|X Axis Sidepanel Mount Outside| 6x |
+|X Axis Spacer| 6x |
+|Y Axis Motor Mount and Slider| 6x |
+|Y Mount| 6x |
+|Z Axis Bottom Front| 6x |
+|Z Axis Top Front| 6x |
+|Z Carriage Back| 6x |
+|Z Carriage Top| 6x |
+|Z Motor Mount| 6x |
+|Z Slider Bottom| 6x |
+|Z Slider Top| 6x |
+|Z Spacer| 6x |
+
 ### Dimensions
 
 The tubes are 20mm x 20mm (0.78") square steel tubes. The length of the Y Axis tubes is 1000mm (40") and the length for the X Axis is approx. 820mm (32"). As an alternative you could also use other dimensions than 20mm x 20mm (maybe even rounded tubes) as long as they are approximately that size. The Z axis tubes are 15mm x 15mm (0.59") aluminium square tubes, approx. 215mm long (8.5"). You should measure this for yourself, check the video build. For the belts I'm using GT2 6mm and pulleys.
@@ -22,6 +43,9 @@ The tubes are 20mm x 20mm (0.78") square steel tubes. The length of the Y Axis t
 ### Power and motors
 
 To power the NEMA 17 stepper motors I've converted an old ATX PC power supply and used the 12V output. The type of stepper motors I use for the Y- and Z axis are: 17HS19-2004S1, the type for the X axis is: 42BYGHW811. For the wiring I've used CAT5 network cable.
+
+
+
 
 ### Software that I mostly use to generate and send GCode:
 
