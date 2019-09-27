@@ -15,26 +15,27 @@ I've designed the 3D printed parts with Fusion 360 and used Inkscape for the Y a
 
 The 3D printer I use is an Anet A8. The parts are printed with PLA, mostly 20% infill and 0.2 or 0.4 setting. Use higher infill for parts that must be stronger, for example the stepper motor mounts.
 
-| 3D Printed components|       Print |
-| -------------        |             |
-|Bearing Belt Guidener| 6x |
-|Router Mount| 6x |
-|Universal Mount| 6x |
-|X Axis Belt Holder| 6x |
-|X Axis Motor Mount| 6x |
-|X Axis Sidepanel Mount Inside| 6x |
-|X Axis Sidepanel Mount Outside| 6x |
-|X Axis Spacer| 6x |
-|Y Axis Motor Mount and Slider| 6x |
-|Y Mount| 6x |
-|Z Axis Bottom Front| 6x |
-|Z Axis Top Front| 6x |
-|Z Carriage Back| 6x |
-|Z Carriage Top| 6x |
-|Z Motor Mount| 6x |
-|Z Slider Bottom| 6x |
-|Z Slider Top| 6x |
-|Z Spacer| 6x |
+| 3D Printed components         | x Print |
+| -------------                 | ----- |
+|Bearing Belt Guidener          | 6x    |
+|Router Mount                   | 1x    |
+|Universal Mount                | 4x    |
+|X Axis Belt Holder             | 4x    |
+|X Axis Motor Mount             | 1x    |
+|X Axis Sidepanel Mount Inside  | 2x    |
+|X Axis Sidepanel Mount Outside | 2x    |
+|X Axis Spacer                  | 2x |
+|Y Axis Motor Mount and Slider  | 2x |
+|Y Mount                        | 4x |
+|Z Axis Bottom Front            | 1x |
+|Z Axis Top Front               | 1x |
+|Z Carriage Back                | 1x |
+|Z Carriage Top                 | 1x |
+|Z Motor Mount                  | 1x |
+|Z Slider Bottom                | 1x |
+|Z Slider Top                   | 1x |
+|Z Spacer                       | 1x |
+
 
 ### Dimensions
 
