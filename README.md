@@ -48,7 +48,7 @@ To power the NEMA 17 stepper motors I've converted an old ATX PC power supply an
 
 ### YouTube video
 
-<a href="https://youtu.be/todo" target="_blank"><img src="https://img.youtube.com/vi/todo/0.jpg" 
+<a href="https://youtu.be/PrJPGO_sYMM" target="_blank"><img src="https://img.youtube.com/vi/PrJPGO_sYMM/0.jpg" 
 alt="Click to view: 3D Printed CNC Machine V3" width="500" border="1" /></a>
 
 ### Software that I mostly use to generate and send GCode:
