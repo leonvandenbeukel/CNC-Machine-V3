@@ -56,4 +56,4 @@ alt="Click to view: 3D Printed CNC Machine V3" width="500" border="1" /></a>
 * bCNC (https://github.com/vlachoudis/bCNC)
 * Universal Gcode Sender (https://github.com/winder/Universal-G-Code-Sender)
 * Easel by Inventables (http://easel.inventables.com)
-* Fusion 360 with CAM (https://www.autodesk.com/products/fusion-360/students-teachers-educators)
+* Fusion 360 with Design and Manufacturing mode (https://www.autodesk.com/products/fusion-360/students-teachers-educators)
