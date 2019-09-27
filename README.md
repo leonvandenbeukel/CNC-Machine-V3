@@ -57,3 +57,8 @@ alt="Click to view: 3D Printed CNC Machine V3" width="500" border="1" /></a>
 * Universal Gcode Sender (https://github.com/winder/Universal-G-Code-Sender)
 * Easel by Inventables (http://easel.inventables.com)
 * Fusion 360 with Design and Manufacturing mode (https://www.autodesk.com/products/fusion-360/students-teachers-educators)
+
+### License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
