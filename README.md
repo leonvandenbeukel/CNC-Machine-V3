@@ -36,17 +36,20 @@ The 3D printer I use is an Anet A8. The parts are printed with PLA, mostly 20% i
 |Z Slider Top                   | 1x |
 |Z Spacer                       | 1x |
 
-
 ### Dimensions
 
 The tubes are 20mm x 20mm (0.78") square steel tubes. The length of the Y Axis tubes is 1000mm (40") and the length for the X Axis is approx. 820mm (32"). As an alternative you could also use other dimensions than 20mm x 20mm (maybe even rounded tubes) as long as they are approximately that size. The Z axis tubes are 15mm x 15mm (0.59") aluminium square tubes, approx. 215mm long (8.5"). You should measure this for yourself, check the video build. For the belts I'm using GT2 6mm and pulleys.
+
+The effective working area is 50 x 70 cm (20" x 27").
 
 ### Power and motors
 
 To power the NEMA 17 stepper motors I've converted an old ATX PC power supply and used the 12V output. The type of stepper motors I use for the Y- and Z axis are: 17HS19-2004S1, the type for the X axis is: 42BYGHW811. For the wiring I've used CAT5 network cable.
 
+### YouTube video
 
-
+<a href="https://youtu.be/todo" target="_blank"><img src="https://img.youtube.com/vi/todo/0.jpg" 
+alt="Click to view: 3D Printed CNC Machine V3" width="500" border="1" /></a>
 
 ### Software that I mostly use to generate and send GCode:
 
