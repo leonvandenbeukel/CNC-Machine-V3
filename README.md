@@ -44,7 +44,7 @@ The effective working area is 50 x 70 cm (20" x 27").
 
 ### Power and motors
 
-To power the NEMA 17 stepper motors I've converted an old ATX PC power supply and used the 12V output. The type of stepper motors I use for the Y- and Z axis are: 17HS19-2004S1, the type for the X axis is: 42BYGHW811. For the wiring I've used CAT5 network cable.
+To power the NEMA 17 stepper motors I've converted an old ATX PC power supply and used the 12V output. The type of stepper motors I use for the Y- and Z axis are: 17HS19-2004S1, the type for the X axis is: 42BYGHW811. Both type of motors can be used. For the wiring I've used CAT5 network cable.
 
 ### Cost Estimation
 
