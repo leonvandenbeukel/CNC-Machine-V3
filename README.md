@@ -46,6 +46,10 @@ The effective working area is 50 x 70 cm (20" x 27").
 
 To power the NEMA 17 stepper motors I've converted an old ATX PC power supply and used the 12V output. The type of stepper motors I use for the Y- and Z axis are: 17HS19-2004S1, the type for the X axis is: 42BYGHW811. For the wiring I've used CAT5 network cable.
 
+### Cost Estimation
+
+* [Link to Google Sheet](https://docs.google.com/spreadsheets/d/1WaLTZEe9Un130kNA_mwn08Lo0E_RAs8ju6dJp0eKexQ/edit?usp=sharing "Link to Google Sheet")
+
 ### Router 
 
 I'm using a Makita M3700 router but you can use any router that has an approx. diameter of 65mm (2.5"). Or you might have to design another router mount or create an adapter.
