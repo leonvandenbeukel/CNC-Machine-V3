@@ -1,5 +1,11 @@
 ﻿# CNC Machine V3
  
+### Warning and disclaimer
+
+Just as mentioned with my previous version, if you want to build this machine yourself you can download all the necessary files but I don't have enough time to give you much support so build it at your own risk! Also always be very careful with powertools, and only use them if you know what you're doing. 
+
+### Introduction
+ 
 This is a modified version of my previous homemade CNC machine. Instead of using threaded rods this one uses (GT2) belts and has a larger working area of 50x70 cm or 20x27 inch. By using belts it's also faster. I'm also using microstepping now (all three jumpers) on the Arduino CNC shield. The STL files for 3D printing can be found in the STL folder. 
 
 The metal tubes are 20x20mm and approx. 1 meter long (X axis is a little shorter). 
