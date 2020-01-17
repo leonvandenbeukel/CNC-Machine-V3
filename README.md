@@ -6,7 +6,7 @@ Just as mentioned with my previous version, if you want to build this machine yo
 
 ### Wiki
 
-Check out the [Wiki](https://github.com/leonvandenbeukel/CNC-Machine-V3/wiki) for specific milling info.
+Check out the [Wiki](https://github.com/leonvandenbeukel/CNC-Machine-V3/wiki) for specific milling info and parameter settings.
 
 ### License
 
