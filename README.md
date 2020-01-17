@@ -4,6 +4,10 @@
 
 Just as mentioned with my previous version, if you want to build this machine yourself you can download all the necessary files but I don't have enough time to give you much support so build it at your own risk! Also always be very careful with powertools, and only use them if you know what you're doing. 
 
+### Wiki
+
+Check out the [Wiki](https://github.com/leonvandenbeukel/CNC-Machine-V3/wiki) for specific milling info.
+
 ### License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
